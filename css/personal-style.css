@@ -1,0 +1,9 @@
+pre {
+	border: 2px dashed #5cc3ae;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+
+code {
+	color: #fd6162;
+}
